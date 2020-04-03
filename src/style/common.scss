@@ -1,0 +1,5 @@
+.black-transparent {
+	--black-transparent: rgba(0, 0, 0, 0.7);
+	background-color: var(--black-transparent) !important;
+	border-color: var(--black-transparent) !important;
+}

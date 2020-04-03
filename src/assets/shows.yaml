@@ -1,0 +1,695 @@
+- date: 2014-05-24
+  city: Düsseldorf
+  country: Germany
+  venue: AK47
+  bands:
+      - Dull Eyes
+      - Caught In A Crowd
+- date: 2014-06-27
+  city: Essen
+  country: Germany
+  venue: Unperfekthaus
+  bands:
+      - In Tradition
+      - Spit Pink
+- date: 2014-07-05
+  city: Mönchengladbach
+  country: Germany
+  venue: Westend
+  bands:
+      - In Tradition
+      - Notions
+      - Symmetries
+      - Notions
+- date: 2014-08-15
+  city: Warsaw
+  country: Poland
+  venue: Chmury
+  bands:
+      - Sick Parrot
+- date: 2014-08-16
+  city: Krakow
+  country: Poland
+  venue: Kolektyw Dajwór
+  bands:
+      - Oreiro
+      - Old Trees
+      - Into Sickness
+- date: 2014-08-18
+  city: Poznan
+  country: Poland
+  venue: Troche Kultury
+  bands: []
+- date: 2014-08-19
+  city: Gdansk
+  country: Poland
+  venue: Wydział Remontowy
+  bands:
+      - Restricted
+      - Andrew Grubba
+- date: 2014-08-20
+  city: Leipzig
+  country: Germany
+  venue: Privat
+  bands:
+      - Oat
+- date: 2014-08-21
+  city: Jena
+  country: Germany
+  venue: F-Haus
+  bands:
+      - Evergreen Terrace
+      - Polar
+      - Miles & Feet
+- date: 2014-08-22
+  city: Düsseldorf
+  country: Germany
+  venue: The Tube
+  bands:
+      - Miles & Feet
+      - Never Grown Up
+- date: 2014-08-23
+  city: Voerde
+  country: Germany
+  venue: Stockumer Schule
+  bands:
+      - Miles & Feet
+      - Forced To Forgive
+      - The Life Tonight
+- date: 2014-08-28
+  city: Cologne
+  country: Germany
+  venue: Sonic Ballroom
+  bands:
+      - Crooks
+      - Hindsights
+- date: 2014-09-27
+  city: Herzogenrath
+  country: Germany
+  venue: Jugendzentrum HOT
+  bands:
+      - Still Ill
+      - Seconds Of Peace
+      - Beardown
+      - Strange Behaviour
+      - Under Direction
+      - No Way Out 58
+      - Take Your Guilt
+- date: 2014-10-24
+  city: Kamen
+  country: Germany
+  venue: JKC
+  bands:
+      - Road To Manila
+      - Symmetries
+      - The Djuks
+- date: 2014-11-08
+  city: Essen
+  country: Germany
+  venue: Privat
+  bands:
+      - In Tradition
+      - Behind The Sun
+      - Storyteller
+      - Kids
+- date: 2014-11-15
+  city: Dinslaken
+  country: Germany
+  venue: Privat
+  bands:
+      - Forced To Forgive
+- date: 2014-11-29
+  city: Lüdenscheid
+  country: Germany
+  venue: AJZ
+  bands:
+      - Paragraph 0815
+      - Snareset
+      - Allein der Tag
+      - No Way Out 58
+- date: 2015-05-28
+  city: Cologne
+  country: Germany
+  venue: AZ
+  bands:
+      - Nine Eleven
+      - Seconds Of Peace
+      - Earl Grey
+- date: 2015-06-20
+  city: Düsseldorf
+  country: Germany
+  venue: Haus Spilles
+  bands:
+      - Resist Of Agony
+      - Through Enemy Lines
+- date: 2015-06-24
+  city: Bad Nauheim
+  country: Germany
+  venue: Privat
+  bands:
+      - Tourist
+- date: 2015-06-27
+  city: Kempen
+  country: Germany
+  venue: Campus
+  bands:
+      - Until September
+      - Dead Birds Don't Fly
+      - The Morning Hour
+      - Black 8 Balls
+- date: 2015-07-24
+  city: Cologne
+  country: Germany
+  venue: Privat
+  bands:
+      - Ghost Cat
+      - Always Wanted War
+- date: 2015-08-01
+  city: Cologne
+  country: Germany
+  venue: AZ
+  bands:
+      - Lavatch
+      - Kings Of Forlorn Lands
+- date: 2015-08-04
+  city: Cologne
+  country: Germany
+  venue: AZ
+  bands:
+      - No Omega
+      - My Turn
+- date: 2015-08-28
+  city: Oettingen
+  country: Germany
+  venue: Juze Kraftwerk
+  bands:
+      - Yeah Detroit
+      - Earl Grey
+- date: 2015-08-29
+  city: Lüdenscheid
+  country: Germany
+  venue: AJZ
+  bands:
+      - Yeah Detroit
+      - Earl Grey
+      - Deliverer
+      - Broken Apart
+- date: 2015-08-30
+  city: Mönchengladbach
+  country: Germany
+  venue: Das Blaue Haus
+  bands:
+      - Yeah Detroit
+      - Earl Grey
+      - Cellar Door
+- date: 2015-09-19
+  city: Herzogenrath
+  country: Germany
+  venue: Jugendzentrum HOT
+  bands:
+      - Release Us
+      - Devastor
+      - Way Too Far
+      - I.W.S
+      - Neverland In Ashes
+- date: 2015-09-23
+  city: Berlin
+  country: Germany
+  venue: Bunte Kuh
+  bands:
+      - Acres
+      - Canvas
+      - Watching Tides
+- date: 2015-09-25
+  city: Paderborn
+  country: Germany
+  venue: Privat
+  bands:
+      - Imminence
+      - Reset Yourself
+- date: 2015-10-08
+  city: Düsseldorf
+  country: Germany
+  venue: Zakk
+  bands:
+      - ATOA
+- date: 2015-10-10
+  city: Germund
+  country: Germany
+  venue: Schützenhalle
+  bands:
+      - Bianca
+      - Maik Baum
+      - Rotten Monkey & Private Paul
+      - D.F.T.
+      - Bettina Vollbart
+      - Penguin Suicide
+      - History Of Sky
+      - World And Dreams
+      - Reshaper
+      - Masuria
+      - Strains
+- date: 2015-11-07
+  city: Dresden
+  country: Germany
+  venue: Roter Baum
+  bands:
+      - Lucifer The Lightbearer
+      - Giver
+      - Leave Traces
+      - Hektik
+      - Reason To Care
+      - Slow Boomer
+- date: 2015-11-14
+  city: Duisburg
+  country: Germany
+  venue: Asta Keller
+  bands:
+      - Torpor
+      - Grim van Doom
+      - Loonies
+- date: 2015-11-21
+  city: Ratingen
+  country: Germany
+  venue: Jugendclub West
+  bands:
+      - Resist Of Agony
+      - Endless Breath
+      - So Many Choices
+      - Uneducation
+      - Goliath vs. Me
+- date: 2015-11-26
+  city: Krakow
+  country: Poland
+  venue: Klub Piękny Pies
+  bands:
+      - Whisperbird
+- date: 2015-11-27
+  city: Warsaw
+  country: Poland
+  venue: Chmury
+  bands:
+      - Karate Free Stylers
+      - Contrail
+- date: 2015-11-28
+  city: Coswig
+  country: Germany
+  venue: Privat
+  bands:
+      - Anewhope
+      - Trident
+      - Moon To Coean
+      - Motor
+      - Pussyjuice Powerdrink
+- date: 2015-12-11
+  city: Groningen
+  country: Netherlands
+  venue: Pino
+  bands:
+      - Never Grown Up
+      - Narrig
+- date: 2015-12-12
+  city: Emmen
+  country: Netherlands
+  venue: Huize Spoorloos
+  bands:
+      - Never Grown Up
+      - Dirty Little Bastards
+- date: 2016-01-22
+  city: Kleve
+  country: Germany
+  venue: Radhaus
+  bands:
+      - Dock 83
+      - Shattered Lions
+      - I Won't Surrender
+      - Slave New World
+- date: 2016-02-20
+  city: Lüdenscheid
+  country: Germany
+  venue: AJZ
+  bands:
+      - One Hundred Days
+      - Never Grown Up
+      - Goliath vs. Me
+- date: 2016-02-24
+  city: Düsseldorf
+  country: Germany
+  venue: The Tube
+  bands:
+      - Anorak
+      - Kála
+- date: 2016-03-05
+  city: Herzogenrath
+  country: Germany
+  venue: HOT
+  bands:
+      - Light Your Anchor
+      - Sleepers
+      - Never Back Down
+      - Way Too Far
+      - Release Us
+      - We Are Anchors
+- date: 2016-03-12
+  city: Recklinghausen
+  country: Germany
+  venue: JZ Südpol
+  bands:
+      - Kids
+      - Death Hounds
+      - 18 Miles
+      - Never Grown Up
+- date: 2016-03-30
+  city: Düsseldorf
+  country: Germany
+  venue: Zakk
+  bands:
+      - ATOA
+      - Steen
+      - Moritz Gadomski
+- date: 2016-04-16
+  city: Berlin
+  country: Germany
+  venue: Eastend
+  bands:
+      - Down To Date
+      - Imminence
+      - I Scream For Icecream
+      - Suck My Chainsaw
+      - Stop Eating Robots
+      - Kora Winter
+      - Watching Tides
+- date: 2016-06-17
+  city: Lüdenscheid
+  country: Germany
+  venue: AJZ
+  bands:
+      - Tidens Tann
+      - Broken Apart
+      - Ilves
+- date: 2016-06-18
+  city: Münster
+  country: Germany
+  venue: Rare Guitar
+  bands:
+      - The Pariah
+      - Under Hoods
+- date: 2016-06-19
+  city: Illingen
+  country: Germany
+  venue: JuZ
+  bands:
+      - The Day We Fall
+      - Citizen Tim
+- date: 2016-06-21
+  city: Dresden
+  country: Germany
+  venue: C40
+  bands:
+      - Oat
+      - Tourist
+- date: 2016-06-23
+  city: Krakow
+  country: Germany
+  venue: Kawiarnia Naukowa
+  bands:
+      - Karate Free Stylers
+      - Setting The Woods On Fire
+- date: 2016-06-24
+  city: Warsaw
+  country: Germany
+  venue: Chmury
+  bands:
+      - Karate Free Stylers
+      - Setting The Woods On Fire
+- date: 2016-07-09
+  city: Halver
+  country: Germany
+  venue: Rathausplatz
+  bands:
+      - Meraine
+      - Angst
+      - Vale Tudo
+      - Light Your Anchor
+      - Idle Class
+      - Deez Nuts
+      - Tausend Löwen Unter Feinden
+      - Slander
+      - Empowerment
+      - Risk It!
+      - Born From Pain
+      - No Turning Back
+      - Pinky Swear
+      - Dunkles Licht
+- date: 2016-10-07
+  city: Paris
+  country: France
+  venue: Olympic Café
+  bands:
+      - Departures
+      - Demain dès l'aube
+- date: 2016-10-08
+  city: Dendermonde
+  country: Belgium
+  venue: JH Zenith
+  bands:
+      - Departures
+      - Depths
+      - Elm Tree Circle
+      - Valley
+      - Locked
+- date: 2016-10-09
+  city: Gorinchem
+  country: Netherlands
+  venue: Podium Gorcum
+  bands:
+      - Departures
+      - Canvas
+      - In Archives
+      - Shallow
+      - A Point Of Protest
+- date: 2016-10-10
+  city: Berlin
+  country: Germany
+  venue: Zukunft am Ostkreuz
+  bands:
+      - Departures
+      - Elm Tree Circle
+- date: 2016-10-12
+  city: Leipzig
+  country: Germany
+  venue: Kulturcafe Manfred
+  bands:
+      - Departures
+      - Canvas
+      - In Archives
+      - 18 Miles
+      - Oaken Heart
+- date: 2016-10-13
+  city: Cologne
+  country: Germany
+  venue: Privat
+  bands:
+      - Departures
+      - Hey Ruin
+- date: 2016-10-14
+  city: Illingen
+  country: Germany
+  venue: JuZ
+  bands:
+      - Departures
+      - Finding Faith
+      - Homestayer
+      - Elm Tree Circle
+- date: 2016-10-15
+  city: Lüdenscheid
+  country: Germany
+  venue: AJZ
+  bands:
+      - Departures
+      - Never Grown Up
+      - No Way Out 58
+      - Sleepers
+- date: 2016-10-16
+  city: Münster
+  country: Germany
+  venue: Baracke
+  bands:
+      - Empty Veins
+- date: 2016-11-14
+  city: Warsaw
+  country: Poland
+  venue: Chmury
+  bands:
+      - A Saving Whisper
+      - Karate Free Stylers
+- date: 2016-11-15
+  city: Wroclaw
+  country: Poland
+  venue: Carpe Diem
+  bands:
+      - A Saving Whisper
+      - Karate Free Stylers
+- date: 2016-11-16
+  city: Leipzig
+  country: Germany
+  venue: Atari
+  bands:
+      - A Saving Whisper
+      - Abrichten
+- date: 2016-11-17
+  city: Torgau
+  country: Germany
+  venue: Brückenkopf
+  bands:
+      - A Saving Whisper
+      - A Healing Process
+- date: 2016-11-18
+  city: Dresden
+  country: Germany
+  venue: Club 11
+  bands:
+      - A Saving Whisper
+      - Wildaway
+- date: 2016-12-10
+  city: Lüdenscheid
+  country: Germany
+  venue: AJZ
+  bands:
+      - Pascow
+      - City Light Thief
+      - Idle Class
+      - The Millboard Message
+      - An Early Casscade
+      - Meraine
+      - Citizen Tim
+- date: 2016-12-17
+  city: Tangermünde
+  country: Germany
+  venue: Kaminstube
+  bands:
+      - Watching Tides
+      - Unexceptional
+- date: 2017-06-09
+  city: Krefeld
+  country: Germany
+  venue: Magnapop
+  bands:
+      - Never Back Down
+      - Never Grown Up
+      - Returner
+      - Way Too Far
+- date: 2017-08-27
+  city: Cologne
+  country: Germany
+  venue: AZ
+  bands:
+      - Canvas
+      - Giver
+      - Worth
+- date: 2017-09-02
+  city: Düsseldorf
+  country: Germany
+  venue: Vier Linden Biergarten
+  bands:
+      - City Light Thief
+- date: 2017-10-07
+  city: Cologne
+  country: Germany
+  venue: Limes
+  bands:
+      - Cold Reading
+- date: 2017-10-14
+  city: Lüdenscheid
+  country: Germany
+  venue: AJZ
+  bands:
+      - Giver
+      - Nosiyah
+      - Broken Apart
+- date: 2017-10-18
+  city: Moers
+  country: Germany
+  venue: Bollwerk 107
+  bands:
+      - Canvas
+      - My Only
+      - Devotion
+- date: 2017-12-01
+  city: Düsseldorf
+  country: Germany
+  venue: District 6
+  bands:
+      - This Is Real
+      - Fights And Fires
+      - Unexceptional
+- date: 2017-12-02
+  city: Hanau
+  country: Germany
+  venue: Jubikuz Hans Böckler
+  bands:
+      - This Is Real
+      - Tourist
+      - Dispeller
+- date: 2018-09-28
+  city: Marburg
+  country: Germany
+  venue: Nachtsalon
+  bands:
+      - Nosiyah
+      - Tremaire
+- date: 2018-09-29
+  city: Mülheim
+  country: Germany
+  venue: AZ
+  bands:
+      - Nosiyah
+      - Tremaire
+      - Leitkegel
+- date: 2019-09-06
+  city: Essen
+  country: Germany
+  venue: Café Nova
+  bands:
+      - Acres
+      - Parting Gift
+      - Tripsitter
+- date: 2019-10-29
+  city: Cologne
+  country: Germany
+  venue: Tsunami Club
+  bands:
+      - Watch Me Rise
+      - As We Go
+- date: 2019-11-09
+  city: Essen
+  country: Germany
+  venue: Café Nova
+  bands:
+      - Time, The Valuator
+      - Dispeller
+      - Empty Home
+- date: 2019-11-30
+  city: Lüdenscheid
+  country: Germany
+  venue: AJZ
+  bands:
+      - We Too, Will Fade
+      - Ghost Of A Chance
+      - Meadow Saffron
+      - Hector Savage
+      - Pool Rules
+      - The Auditive
+- date: 2020-01-17
+  city: Cologne
+  country: Germany
+  venue: Sonic Ballroom
+  bands:
+      - Witness
+      - Worth
+- date: 2020-07-11
+  city: Lüdenscheid
+  country: Germany
+  venue: AJZ
+  bands:
+      - No Way Out 58

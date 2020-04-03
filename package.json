@@ -1,0 +1,51 @@
+{
+	"name": "dy-web",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"serve": "vue-cli-service serve",
+		"build": "vue-cli-service build",
+		"lint": "vue-cli-service lint",
+		"analyze": "source-map-explorer 'dist/js/*.js'"
+	},
+	"dependencies": {
+		"@fortawesome/fontawesome-free": "5.14.0",
+		"core-js": "^3.6.5",
+		"loglevel": "^1.7.0",
+		"roboto-fontface": "*",
+		"vue": "2.6.12",
+		"vue-class-component": "7.2.5",
+		"vue-cookies-reactive": "^2.0.5",
+		"vue-fragment": "^1.5.1",
+		"vue-property-decorator": "9.0.0",
+		"vue-router": "3.4.3",
+		"vuetify": "2.3.10",
+		"yaml": "^1.10.0"
+	},
+	"devDependencies": {
+		"@typescript-eslint/eslint-plugin": "3.10.1",
+		"@typescript-eslint/parser": "3.10.1",
+		"@vue/cli-plugin-babel": "4.5.4",
+		"@vue/cli-plugin-eslint": "4.5.4",
+		"@vue/cli-plugin-router": "4.5.4",
+		"@vue/cli-plugin-typescript": "4.5.4",
+		"@vue/cli-service": "4.5.4",
+		"@vue/eslint-config-prettier": "^6.0.0",
+		"@vue/eslint-config-typescript": "5.1.0",
+		"eslint": "7.7.0",
+		"eslint-plugin-prettier": "3.1.4",
+		"eslint-plugin-vue": "^6.2.2",
+		"prettier": "2.1.1",
+		"pug": "^3.0.0",
+		"pug-plain-loader": "^1.0.0",
+		"sass": "1.26.10",
+		"sass-loader": "10.0.1",
+		"sharp": "0.26.0",
+		"source-map-explorer": "2.5.0",
+		"typescript": "4.0.2",
+		"vue-cli-plugin-vuetify": "2.0.7",
+		"vue-template-compiler": "2.6.12",
+		"vuetify-loader": "1.6.0",
+		"yaml-loader": "^0.6.0"
+	}
+}

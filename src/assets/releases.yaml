@@ -1,0 +1,1071 @@
+- id: hay
+  name: How Are You
+  date: 2020-03-27
+  label: Midsummer Records
+  spotifyId: 52hj2qrU8MTPpgKNSlqkX8
+  media:
+      - type: Vinyl
+        color: Purple
+        amount: 100
+        id: vinyl_limited
+      - type: Vinyl
+        color: Silver
+        amount: 200
+        id: vinyl_standard
+  reviews:
+      - text: Zusammen mit TIDAL SLEEP stellen sich DECEMBER YOUTH mit ihrem zweiten Album nun an die Spitze eines Genres, das sich auch international vor niemandem mehr verstecken braucht.
+        source: Ox Fanzine
+      - text: 40 epische Minuten reichen vollkommen aus, um December Youth auf eine neue Ebene zu katapultieren.
+        source: Beatblogger
+      - text: |
+            "How are you?" – "Well, I’m very impressed."
+        source: I Can Guarantee
+      - text: ...grade diese Mischung macht "HOW ARE YOU?" zu einem wahnsinnig spannenden Album, zu dem man gleichermaßen abschalten und aufdrehen kann, in dem man sich vergessen und in dem man nachdenken kann, in dem man sich verliert und findet.
+        source: Crowdsalat
+  tracklist:
+      - title: Sway
+        length: 202
+        lyrics: |
+            how are you
+            darling don’t tell me the truth
+            how are you, now
+            where’re you from, where will you go?
+            show me all the things I know
+            how are you, oh
+            I'm just another waste of time, tell me all your favorite lies
+            how are you, now
+
+            that you are falling
+            down on earth again
+            chemicals will help you
+            to erase your memories
+            lay your head on my chest
+            you'll be fine
+            I am your shelter for tonight
+            just for tonight
+            so tomorrow you're gone
+            I’m alone again
+            I don't know where you're from
+            I don't remember your name
+
+            how are you
+            darling don’t tell me the truth
+            how are you, now
+            where’re you from, where will you go?
+            show me all the things I know
+            how are you, oh
+
+            and every time I saw you
+            you had changed your name
+            when we sway we feel alive
+
+            how are you
+      - title: City Gloom
+        length: 274
+        lyrics: |
+            I cling to you
+            'cause we feel the same
+            we're drunk and bored
+            we don’t belong here
+            come with me, there's a loophole to escape
+            suburbanites have always scared us, so we have to leave
+
+            yeah the city is screaming our names
+            take my hand and run away with me
+            everything we ever wanted is finally within reach
+            I can't wait to see it
+
+            the force of habit hits you there
+            no matter how far you run from the past
+            it always catches up and bites you hard
+
+            I miss the green fields and the smell of the woods
+            I miss my childhood
+            I am homesick
+            will I ever return?
+
+            where we see the stars
+            and fear does not exist
+            we are home
+            where I can see us dancing
+            and you're screaming my name
+            come and say my name
+
+            so tell me where do we belong now?
+
+            do you want to give up?
+            even if it kills us
+            there's no turning back
+
+            I betray myself
+            when the streets are shining
+            please take my hand
+            we're trapped in traffic lights
+            what have we done?
+            we have lost our roots
+            we betray ourselves
+            never wanted to wear those shoes
+      - title: Pixie Dust
+        length: 283
+        lyrics: |
+            throw me back to 1991, I promise you I won´t change a thing
+            the problem isn’t me, it´s just the place we need to stay
+            so follow me, she said one day
+            follow me, escape, escape
+
+            think of all the joy you find
+            when you leave the world behind
+            I never wanted to grow up, but everything has changed
+            I want you to show me, how I can escape
+            fuck, take me away from everything
+
+            so think of the happiest things, it´s the same as having wings
+            on my run from all who banished me
+            so think of the happiest things, it´s the same as having wings
+            let me forget the mess I’ve left
+
+            but there is something I remember
+            her whisper in my head
+            “who are you?” and “please come back again”
+            when I try to repeat her words, when I try to find my wings
+            and I guess this time I’m not sleeping because I got this feeling more intense than last night
+
+            so think of the happiest things, it´s the same as having wings
+            on my run from all who banished me
+
+            all I need is somewhere far away
+            second star to the right, where we escape
+      - title: Rain
+        length: 232
+        lyrics: |
+            oh kid don’t be stupid
+            don´t mess up your fucking life
+            there’s hope behind blurred walls
+            you can´t see with sleepy eyes
+            oh kid don´t give up now
+            there´s a world in front of you
+            keep your head up and your mind set
+            so much I need to show you
+
+            oh boy don´t play with fire
+            it might be
+
+            the warmth you need
+            take care of yourself tonight
+            it´s easier if you can hide
+            the warmth you need
+            replace the fucking cold inside
+            shut your eyes and give up the fight
+
+            this is just a rainy day
+            nothing has changed
+            I close the door and medicate myself
+            this is just a rainy day
+            nothing has changed
+            why does it always rain on me
+
+            I cannot sleep, or even dream
+            so what is in front of me
+            I´m selfish I know and always alone
+            too blind to see the demons I feed
+            I hide in self-destruction, my life is so destructive
+            I find comfort in self-pity, it´s too late I´ll never change
+
+            what should I be surprised about
+            I’ve seen it all
+            this is just a rainy day
+            always the same routine
+
+            this is just a rainy day
+            nothing has changed
+            I close the door and medicate myself
+            this is just a rainy day
+            nothing has changed
+            why does it always rain on me
+
+            and I know it’s harmful
+            to follow my demons
+            and I won’t overcome
+            my habits right now
+            and this is just a rainy day
+            nothing has, nothing has
+            ever changed
+      - title: Cliché
+        length: 271
+        lyrics: |
+            Save me from fading away
+            all I see is just the shape of your face
+            so tell me tell me I’m fine
+            lie to me
+            oh she blames me
+            ‘cause i´m not good enough for her
+            oh blame me
+            now I’m a fool and I am useless
+            i´ll make your heart rain again
+            now I am a fool and I am useless
+
+            Break me, kill me, don´t be sorry
+            teach me how to dive into your waters
+            keep me, feel me, suffer from my words
+            tell me that I don’t deserve you
+            I don´t deserve your smile
+            I don´t deserve your love
+            maybe you are the reason I lose my mind
+            you´ve got my heart and all my selfish lies
+            beat me up with jealousy when I'm blind
+            but never let me go
+            Throw me back into my sorrows
+            if you leave there´s no tomorrow
+            the life I never had will end
+            thank you for the world you gave me
+            chest to chest i will follow
+            kiss me dear you told me how to
+            treat you when our love´s intense
+            keep it breathing, you´ve saved me
+            I am a fool, I am useless don´t let me fall
+            save me from fading away
+            I am fool I am useless so lie to me
+            save me from fading away
+            Break me kill me, don´t be sorry
+            teach me how to dive into your waters
+            keep me, feel me, suffer from my words
+            tell me that I don’t deserve you
+            throw me back into my sorrows
+            if you leave there´s no tomorrow
+            the life I never had will end
+            thank you for the world you gave me
+            chest to chest i will follow
+            kiss me dear you told me how to
+            treat you when our love´s intense
+            keep it breathing, you´ve saved me
+            save me from fading away
+            all I see is just the shape of your face
+            so tell me, tell me I’m fine
+            lie to me
+            oh, she blames me
+            ‘cause I´m not good enough for her
+            oh, blame me
+            now I’m a fool and I am useless
+            I´ll make your heart rain again
+            now I am a fool and I am useless
+
+            break me, kill me, don´t be sorry
+            teach me how to dive into your waters
+            keep me, feel me, suffer from my words
+            tell me that I don’t deserve you
+
+            I don´t deserve your smile
+            I don´t deserve your love
+            maybe you are the reason I lose my mind
+            you’ve got my heart and all my selfish lies
+            beat me up with jealousy when I'm blind
+            but never let me go
+
+            throw me back into my sorrows
+            if you leave there´s no tomorrow
+            the life I never had will end
+            thank you for the world you gave me
+            chest to chest I will follow
+            kiss me dear you told me how to
+            treat you when our love´s intense
+            keep it breathing, you have saved me
+
+            I’m a fool, I’m useless, don´t let me fall
+            save me from fading away
+            I’m fool I’m useless so lie to me
+            save me from fading away
+
+            break me, kill me, don´t be sorry
+            teach me how to dive into your waters
+            keep me, feel me, suffer from my words
+            tell me that I don’t deserve you
+            throw me back into my sorrows
+            if you leave there´s no tomorrow
+            the life I never had will end
+            thank you for the world you gave me
+            chest to chest I will follow
+            kiss me dear you told me how to
+            treat you when our love´s intense
+            keep it breathing, you have saved me
+      - title: Shelter (How Are You)
+        length: 166
+        lyrics: |
+            I lay my head to rest
+            I stopped bleeding from my wounds
+            I lay my head to rest
+            I stopped bleeding from my wounds
+            ages ago
+
+            and I wonder, what have we become
+            I used to be your medicine
+            now I’m the pain
+            and I wonder, what have we become
+            I used to be your shelter
+            now I am the rain, washing this all away
+
+            and I lay my head to rest
+            still wondering
+            how are you
+      - title: Vergissmeinnicht
+        length: 229
+        lyrics: |
+            do you remember
+            I saved your life
+            when we were dancing in the dirt
+            do you remember
+            we used to be one
+            but now I´m just a stranger to you
+
+            and I know it was my fault
+            I was too weak; I gave in
+            when we were so young
+            much too young
+            why don´t you remember me?
+
+            it hurts like fire
+            that never stops burning
+            the scars will never heal
+            I am addicted to you
+
+            do you remember
+            we used to be one
+            now I´m a stranger
+            do you remember
+
+            after all
+            I’m still broken
+            I can´t live without your smile
+            I still love you
+            after all you put me through
+
+            now you´re living the life
+            which was destined for us
+            I am standing here, alone
+            still fighting with my ghost
+
+            do you remember
+            we used to be one
+            now I´m a stranger
+            do you remember
+            do you remember me
+      - title: Yarrow
+        length: 292
+        lyrics: |
+            I’m not safe when you´re with me
+            I can´t escape, even if I want to
+            you make me suffer from all I’ve ever loved
+            I’m not safe when you´re with me
+
+            she is mad and she´s magic
+            she´s a drug so addictive
+            there´s no lie in her fire
+            my lovely thief she´s a liar
+
+            please don´t speak
+            just dream
+
+            I have so many faces
+            only you can see the real
+            while I, I don´t know yours, it´s OK
+            I have so many faces
+            only you can see the real
+
+            fill the emptiness in my heart
+            with lies that I deserve
+      - title: Orchid
+        length: 269
+        lyrics: |
+            don´t fade away
+            let me swallow your life
+            don´t fade away
+
+            enough is enough
+            reach for my throat
+            your hands are cold
+            stay with me
+            don´t fade away
+            I need to break the silence
+            I need your voice surrounding me
+            don´t fade away
+
+            even if I lose my mind
+            I'll try to save your life if you decide to leave
+
+            maybe there´s a heaven
+            as they told us, as they preached
+            probably all we see is black, we never believed
+            in something divine, in humanity
+            at least all the demons
+            who speak to me, they speak to me
+
+            don´t fade away
+            let me swallow your life
+            don´t fade away
+
+            enough is enough
+            reach for my throat
+            your hands are cold
+            don´t let me fall
+            don´t fade away
+
+            don´t fade away
+            let me swallow your life
+            just stay with me
+            don’t fade away
+      - title: Sinner (How I Am)
+        length: 196
+        lyrics: |
+            there´s a stranger in the mirror
+            hello sinner, how are you?
+            what do you feel when they judge you?
+
+            why do you despise me?
+            why do you? you never ask me how I am
+            and it seems like you don´t want to understand
+            the truth
+            it´s easier to stigmatize, you turned a blind eye to me
+
+            so why do you call me a sinner?
+            without a reason you're judging me
+            even though you never felt the same
+
+            you feed my pain
+            no, if you don´t care, don´t speak to me
+            if you won´t help, you can not see
+            let me go
+            I know it´s time to lose it all
+            when the spoon in my hand almost glows
+
+            so I try
+            to leave it all behind
+            all my fears, all my life
+            my hands are shaking because they know it is time to lose it all
+            I´m a sinner, I´m a thief
+            all that you want me to be
+
+            there´s no difference
+- id: relive
+  name: Relive
+  date: 2016-06-17
+  label: Midsummer Records
+  spotifyId: 3RPWTLXugEn5QhLgsyc83u
+  media:
+      - type: Vinyl
+        color: Marble
+        amount: 100
+        id: vinyl_limited
+      - type: Vinyl
+        color: Clear
+        amount: 400
+        id: vinyl_standard
+      - type: CD Jewelcase
+        amount: 500
+        id: cd
+  reviews:
+      - text: |
+            "Relive" ist eine wichtige Platte. "Relive" ist auch eine notwendige Platte geworden, ein Zeichen, dass es noch immer Leute gibt, die nicht mit allem einverstanden sind, sondern ihre großen Probleme mit der Entwicklung unserer Zivilisation haben.
+        source: Ox Fanzine
+      - text: 'Der erste Eindruck ist: jede Menge Wut. Die Band spielt Post-Hardcore und hat einen wahren Schreihals als Sänger. Interessanterweise konterkariert das die relativ melodische und eigentlich recht einfühlsame Musik.'
+        source: Away From Life
+      - text: Ich will's mal so sagen... die Jungs haben mir den Post-Hardcore mit ihrer Scheibe einmal mehr schmackhaft gemacht – vielen Dank hierfür!
+        source: Handwritten Mag
+      - text: Diese elf Songs müsst ihr euch unbedingt reinziehen, wenn ihr auf Zeug wie I Saw Daylight, Rainmaker, Thursday oder Serene steht.
+        source: Crossed Letters
+  tracklist:
+      - title: Shiver
+        lyrics: |
+            we‘ve had enough of this
+            we should all know better
+            I do relive every single bit
+            and it makes me shiver
+        length: 106
+      - title: We've Seen It All
+        lyrics: |
+            we’ve seen it all
+            sitting in our sheltered homes
+            we are so aware
+            but do we even care?
+
+            I’m seized with remorse
+            all day long
+            trying to comprehend
+            what might have gone wrong
+            'it’s not our business, it’s not our fault'
+            challenge your point of view
+            that’s all I’m asking for
+
+            what have we become?
+            thinking of nothing but ourselves
+            is it our nature? is it in our veins?
+            instead of lending a hand
+            we only look away
+
+            selflessness is a rare virtue these days
+
+            think about everyday’s misery
+            all these people suffering
+            oh can’t you hear them scream?
+            it’s not that far away, you know
+            just take a walk right down the street
+
+            I would give everything just to see them smile one single time
+
+            we’ve seen it all
+            we are aware
+            but do we even care?
+
+            and when I read the papers or turn on the TV
+            I find it hard to realize what I see
+            all these senseless deaths
+            caused by senseless reasons
+            hadn’t we enough of it?
+            will it ever end? my heart is bleeding
+
+            and I just can’t get this image out of my head
+            a little child in pain lying in a hospital bed
+            heartbeats getting faster in fear
+
+            amplitudes on a screen
+            about to disappear
+
+            we have to free ourselves from this sickness
+
+            I’m seized with remorse
+            all day long
+            trying to comprehend
+            trying to figure out
+            what I could do
+        length: 228
+      - title: Night Train Talks (Monica)
+        lyrics: |
+            and I wonder what has happened to you
+            what troubles in life you’ve been through
+            how little joy and how much pain
+
+            how did you get to this point?
+
+            pouring out your heart to strangers
+            talking about what you’ve lost in life
+            talking about how you feel tonight
+            and that you know what would
+            be the right thing to do
+
+            but this sickness it holds you
+            with cold fingers around your neck
+            your eyes begging please, oh please
+            don’t turn your back on me
+            like everyone else did
+
+            please don’t turn your back
+
+            I can’t do this fight alone
+            I can’t find a way out
+
+            turning to the bottle again
+            day after day
+            night after night
+            keep asking yourself
+            is it worth the fight?
+
+            I hope you’re alright
+        length: 138
+      - title: Ailleurs
+        lyrics: |
+            'father, tell me, where are we heading to?
+            why are we leaving home?
+            are you listening to me?
+            I am scared and I can’t sleep'
+
+            'my beloved son
+            I only want all the best for you
+            and believe me I won’t rest
+            until you are save again
+            with a future and a dream to chase
+
+            we’re searching our luck elsewhere
+            there’s nothing left for us here
+
+            we had to leave fast
+            all things were packed
+            no chance for goodbyes
+            will I ever come back?
+
+            we’re searching for luck elsewhere
+            there’s nothing left for us here'
+
+            through the deepest seas
+            across the highest mountains they flee
+            driven by hope and awful memories
+
+            can we even imagine how this must feel like?
+            leaving home with no chance for goodbyes
+
+            'will I ever come back?'
+        length: 188
+      - title: Dear Brother
+        lyrics: |
+            'dear brother, this won’t help us
+            oh brother, this won’t help us
+
+            you could be right, but I still believe
+            that maybe it will, maybe it will
+
+            dear brother, this won’t help us
+            oh brother, this won’t help us
+
+            you could be right, but I still believe
+            that maybe it will, maybe it will'
+
+            and so they watched him burn in peace
+
+            the whole world watched him burn in peace
+        length: 82
+      - title: Night Train Talks (Old Man)
+        lyrics: |
+            'if you find it, keep it close
+            hide it from evil eyes and greedy hands
+            if you find it, keep it close
+            day and night, let no one ever take it from you
+
+            it’s the most precious to own
+            it stands above it all
+
+            I can tell you son, cause I’ve been there
+            I’d give it all just to feel it once again
+            but this flame is dead now for so long
+            it’s far gone and I fear that it won’t come back again'
+
+            and I’m still figuring out what he was talking about
+            lying awake, with no chance for sleep
+            trying to make sense
+            trying to find the meaning behind his words
+
+            'if you find it, keep it close
+            hide it from evil eyes and greedy hands
+            if you find it, keep it close
+            day and night, let no one ever take it from you
+        length: 165
+      - title: Common Blues
+        lyrics: |
+            more and more we forget what’s worth living for
+            and what matters most
+
+            always trying not to fail
+            but losing our path anyway
+            we’re hiding our inner selfs
+            behind masks and thick walls
+
+            we won’t dare to speak forbidden words
+            because the truth, it hurts
+            just too much
+
+            we close our eyes to it
+            and turn away
+            rather keep on lying
+            than displease anyone
+            while trying to fit in
+            we betray ourselves
+
+            we play our sick, pathetic roles
+            in this everyday play
+            day after day
+
+            drowning in our own sad stories
+            our mistakes, our fears, our worries
+
+            and when we look up to the stars
+            we realize just how small we are
+
+            oh how we take it all for granted
+            and forget just how precious life is
+            playing our roles day after day
+            don’t let this gift waste away
+
+            don’t let it waste away
+
+            and when we look up to the stars
+            we realize just how small we are
+
+            dare to take a further step
+            don’t give up, make the best of your choices
+            dare to let your flaws behind
+            make up your mind
+            this is your life
+
+            oh how we take it all for granted
+            and forget just how precious life is
+
+            don’t let it waste away
+        length: 257
+      - title: Fragments
+        lyrics: |
+            I’m not special, I’m not much
+            I’ve learned from people I met
+            from those who’ve touched my heart, my soul
+            those who changed my view
+            and let my mind grow
+            who inspired me to believe in myself
+            to become who I am now
+
+            retracing the process
+            I finally see
+            I’ve always been from messed up to crisis
+            I never wanted to hurt anyone on my way
+            but I guess I did
+            I guess we all do, all the same mistakes
+            unfortunately, this is how it always was
+            how it will always be
+            I feel like my time’s running out
+            I’m getting older but am I getting wiser as well?
+
+            only time will tell
+            maybe I just want to leave my mark in this world
+            before I disappear again
+            a body turned cold, unimportant
+            untold stories of a lifetime
+            secrets I keep
+            forever hidden in my mind, buried deep
+            too afraid, to let anyone find them
+
+            no, release me from this dark night
+            clear my sight, hope, bring me home
+
+            please my friends, believe me
+            I’m not always like this
+            bitter and frustrated
+            cause it all seems pointless
+            or maybe I am just too ambitious, too focused?
+
+            I never meant to cause a mess
+            repeating the same old excuses
+            again and again
+            but the truth is
+            I’m the only one to blame
+
+            I never wanted to disappoint those I care about
+            those who still love me all the same, without any doubt
+
+            is it all in my head
+            is there a way out?
+        length: 162
+      - title: Night Train Talks (The Angst In Us)
+        lyrics: |
+            I watched the clouds getting darker
+            matching my state of mind
+            and I just couldn’t help it
+
+            did I make peace with my mistakes?
+            the doubt still remains
+            persistently, only slowly fading away
+
+            and then I saw her
+            her eyes filled with tears
+            her face a reflection
+            of my own fears
+
+            'I’m sorry, can I help you?
+            it seems like you could need someone, someone to talk to'
+
+            'what could you probably do or say
+            that would make all of my demons just go away?
+
+            I want it all to disappear
+            so say, can you take me away from here?
+            to leave behind all what I’ve done
+            and what was done to me
+            so say, do you really think that you could fix this?'
+
+            we watched the clouds getting darker
+            matching our state of mind
+            did we make peace with our mistakes?
+            the doubt remains, not fully fading away
+
+            'listen girl, you’re not alone
+            facing the horrors of this world
+
+            remember what’s worth living for
+            remember all the things that you once adored
+
+            just hold on to it
+            hold on and never let go'
+        length: 186
+      - title: Life's An Ugly Beatuy
+        lyrics: |
+            an overwhelming joy
+            I never felt before
+            I’d give it all away
+            it’s you I adore
+            you brought the light back into my life
+
+            and when you smile
+            the whole world seems to smile with you
+            and when you laugh
+            my heart skips a beat
+
+            but on that day it was ripped apart
+            I swear it was just a glimpse, just a second
+            you were gone suddenly
+            who stole you from us?
+            who stole you from me?
+
+            can you hear me?
+            we used to be happy
+            how could you dare to erase such beauty
+            I’m not quite sure if I ever truly hated
+            but I truly hate you
+            you’re all the world’s evil impersonated
+
+            so listen closely
+            whoever you are
+            wherever you hide
+            you should fear for your life
+            cause I swear if I find you
+            I’ll bring it to an end
+            with my own bare hands
+
+            for you’ve stolen a life
+            and the joy that was mine
+            eye for an eye
+            I am probably losing my mind
+
+            how could you dare to defile such innocence
+            I cannot understand
+            I cannot grasp one single clear thought
+            oh my calls fade away into the dark
+            there’s no light left
+            not one single spark
+
+            you took our child, destroyed our lives
+            you stole the light, the joy that was mine
+            you destroyed her life
+            you destroyed my life
+        length: 214
+      - title: Second Part Of A Tragedy
+        lyrics: |
+            the latest mistake I made
+            was letting this all slip away
+            from the harshest seas
+            to the calmest of bays
+            I think I didn’t capture it the right way
+
+            oh I got it all wrong
+
+            and I’ll take it all on my own
+            the weight on my shoulders yet heavy
+            still there’s even more to carry
+            but I’ll carry it, I will carry it
+
+            oh free me
+            come free me
+            there used to be air in my lungs
+            there used to be blood in my veins
+
+            such regret, shattered hearts
+            would you come back with me, right to the start?
+            let’s set sail once again
+            hoping that we won’t sink in the end
+
+            oh free me
+            come free me
+            there used to be air in my lungs,
+            there used to be blood in my veins
+
+            oh I got it all wrong
+        length: 171
+- id: transgressions
+  name: Transgressions
+  date: 2014-05-23
+  media:
+      - type: CD Digipack DIY
+        amount: 50
+        id: cd
+  reviews:
+      - text: Rein stilistisch natürlich schönster Hardcore in bester MODERN LIFE IS WAR-meets-THURSDAY-Manier...
+        source: Ox Fanzine
+      - text: ...ein recht starkes Lebenszeichen von der Band, die vor allem mit dem letzten Song nochmal alle Register zieht und zeigt was in ihr steckt.
+        source: Biotechpunk
+      - text: Wo Prädikate wie "hysterisch" in anderen Stilrichtungen als Beleidung zählen, passen sie bei December Youth wie Arsch auf Eimer. "Transgressions" kann sich schon mal hören lassen.
+        source: The-Pit
+  tracklist:
+      - title: A Backward Glance
+        lyrics: |
+            Just take, Just take one look back
+            It's obvious to see
+            Narrow minds and blackened hearts
+            Should this be our legacy?
+            It makes me sick!
+
+            …and I,
+
+            I want to wash it away,
+            like dirt from my skin
+            Everything that you've done
+            Everything that you've been
+
+            So, just tell me
+            Who are you to decide
+            Who has the right to survive?
+            So, go on just tell me
+            what's it you're longing for
+            and is it all worth this?
+            I can't stand it anymore
+
+            With every further step,
+            you leave a bloody footprint
+            In every word you speak,
+            I smell the lie that lies within
+            No!, I won't,
+            I won't shake this greedy hand
+
+            I want to wash it away
+            like dirt from my skin
+            Still you refuse to acknowledge
+            this misery we're in
+
+            Just take, Just take one look back
+            It's obvious to see
+            Narrow minds and blackened hearts
+            Should this be our legacy?
+            It makes me sick!
+
+            This ship is sinking
+            We're all about to drown
+            We have to change our way of thinking
+
+            This ship is sinking
+            We're all about to drown
+            Weight down
+            by our self-made crown
+        length: 196
+      - title: 13
+        lyrics: |
+            ...like I'm about to lose grip of my life
+            Day in day out, an endless strife
+            Wandering around, nowhere to hide
+            Keeping the sadness always by my side
+
+            ...and to be honest
+            I don't need anything
+            or anyone else to drag me down
+            because this always was
+            something I was capable of on my own
+
+            I feel like I slept for years
+            but right now even that
+            seems nowhere near enough
+
+            My teeth are pounding from endless grinding
+            My fingers hurt from nervous biting
+
+            But I know that seasons change
+            and that any kind of gloom
+            will eventually fade away
+        length: 114
+      - title: A Promise
+        lyrics: |
+            From this day on
+            I want to change myself to the good
+            and leave behind
+            who I used to be
+
+            Is there still hope?
+            Is there still hope for me?
+
+            One thing left to say
+            'I am truly sorry!'
+        length: 101
+      - title: First Part Of A Tragedy
+        lyrics: |
+            It seems that
+            this might be
+            what he deserves
+            for crushing her world
+
+            And it seems that her life hast lost sense
+            since she's aware of the distance
+            between dream and reality
+
+            And now he only got himself to blame
+            Oh, what a shame, what a shame
+            What did you do it for, boy?
+            What did you do it for?
+            Remember her hopeful whisper
+
+            Let's pretend we would be happy forever
+            Let's live a lie together
+
+            It was not enough
+
+            ...and she said
+
+            Let's pretend we would be happy forever
+            Let's live a lie together
+
+            It was not enough
+            Another love lost
+        length: 131
+      - title: Chasing Dreams
+        lyrics: |
+            With every further passing night
+            I feel like losing hope
+            I feel like losing sight
+
+            Is there any sense
+            in chasing dreams?
+
+            After every step forward
+            follow two steps back
+
+            This bitter taste just won't leave
+            These fearful thoughts in my head
+
+            Oh my dear sun, I am afraid
+            it's getting harder every day
+            to warm my heart
+
+            Since I left home
+            years ago
+            with an untroubled mind
+            and a goal unknown
+
+            It felt like the whole world's in front of me
+            So many things to do, so many things to see
+
+            But what did I achieve?
+
+            Or could it be I'm nothing more but a fraud
+            with his lies falling apart
+
+            These questions stay with me
+            permanently
+
+            And I wish I could rest
+            just for a while
+            But then, from time to time
+            there appears a smile,
+            a pretty one
+            But unlike the doubts
+            she won't stay for long
+
+            What have I done?
+
+            Where did I go wrong?
+
+            You are actually aware,
+            so pick up yourself
+            You can do better than this
+            your heart screams for it
+
+            So, realizing what I want to be
+            was a painful process, indeed
+            And I hope that I've learned my lesson from it
+            I'm pretty sure I'm not alone feeling like this
+
+            So I just keep on waiting for better times,
+            whenever they might come
+
+            So I just keep on waiting for better times,
+            for me
+            for you
+            for everyone
+        length: 231
